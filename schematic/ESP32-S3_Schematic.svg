@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.9.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1.09in"
+	 height="2.23in" viewBox="0 0 75.1 143.3" overflow="visible" xml:space="preserve">
+<g id="Layer_5">
+	
+		<rect x="3.5" y="0.2" fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-miterlimit="10" width="68.2" height="142.6"/>
+</g>
+<g id="Layer_1">
+	<g id="breadboard">
+		<g id="labels">
+			<rect x="4.3" y="136" fill="none" width="4.2" height="5.9"/>
+			<text transform="matrix(0 -1 1 0 6.543 140.6111)" fill="#231F20" font-family="'DroidSans'" font-size="3px">5V</text>
+			<rect x="18.8" y="101.9" fill="none" width="4.2" height="12.7"/>
+			<text transform="matrix(0 -1 1 0 21.0918 113.1863)" fill="#231F20" font-family="'DroidSans'" font-size="3px">EN/RST</text>
+			<rect x="30" y="112.2" fill="none" width="4.2" height="5.9"/>
+			<text transform="matrix(0 -1 1 0 32.3272 116.8425)" fill="#231F20" font-family="'DroidSans'" font-size="3px">RX</text>
+			<rect x="33.4" y="112" fill="none" width="4.2" height="5.9"/>
+			<text transform="matrix(0 -1 1 0 35.7061 116.5476)" fill="#231F20" font-family="'DroidSans'" font-size="3px">TX</text>
+			<rect x="36.9" y="112.3" fill="none" width="4.2" height="5.9"/>
+			<text transform="matrix(0 -1 1 0 39.1914 117.7058)" fill="#231F20" font-family="'DroidSans'" font-size="3px">I</text>
+			<text transform="matrix(0 -1 1 0 39.1914 116.7185)" fill="#231F20" font-family="'DroidSans'" font-size="3px">O</text>
+			<text transform="matrix(0 -1 1 0 39.1914 114.492)" fill="#231F20" font-family="'DroidSans'" font-size="3px">2</text>
+			<text transform="matrix(0 -1 1 0 39.1914 112.8396)" fill="#231F20" font-family="'DroidSans'" font-size="3px"> </text>
+			<text transform="matrix(0 -1 1 0 39.1914 112.0603)" fill="#231F20" font-family="'DroidSans'" font-size="3px"> </text>
+			<text transform="matrix(0 -1 1 0 39.1914 111.281)" fill="#231F20" font-family="'DroidSans'" font-size="3px"> </text>
+			<rect x="43.8" y="111.8" fill="none" width="4.2" height="5.9"/>
+			<text transform="matrix(0 -1 1 0 46.1113 116.4031)" fill="#231F20" font-family="'DroidSans'" font-size="3px">48</text>
+			<rect x="54" y="98.4" fill="none" width="4.2" height="17"/>
+			<text transform="matrix(0 -1 1 0 56.3267 115.364)" fill="#231F20" font-family="'DroidSans'" font-size="3px">B</text>
+			<text transform="matrix(0 -1 1 0 56.3267 113.5007)" fill="#231F20" font-family="'DroidSans'" font-size="3px">O</text>
+			<text transform="matrix(0 -1 1 0 56.3267 111.2742)" fill="#231F20" font-family="'DroidSans'" font-size="3px">O</text>
+			<text transform="matrix(0 -1 1 0 56.3267 109.1375)" fill="#231F20" font-family="'DroidSans'" font-size="3px">T</text>
+			<text transform="matrix(0 -1 1 0 56.3267 107.5808)" fill="#231F20" font-family="'DroidSans'" font-size="3px">/</text>
+			<text transform="matrix(0 -1 1 0 56.3267 106.4617)" fill="#231F20" font-family="'DroidSans'" font-size="3px">I</text>
+			<text transform="matrix(0 -1 1 0 56.3267 105.4734)" fill="#231F20" font-family="'DroidSans'" font-size="3px">O</text>
+			<text transform="matrix(0 -1 1 0 56.3267 103.2468)" fill="#231F20" font-family="'DroidSans'" font-size="3px">0</text>
+			<rect x="26.5" y="112.2" fill="none" width="4.2" height="5.9"/>
+			<text transform="matrix(0 -1 1 0 28.8272 117.3113)" fill="#231F20" font-family="'DroidSans'" font-size="3px">ON</text>
+			<rect x="68.4" y="135.5" fill="none" width="4.2" height="7.9"/>
+			<text transform="matrix(0 -1 1 0 70.6724 142.5349)" fill="#231F20" font-family="'DroidSans'" font-size="3px">GND</text>
+			<rect x="68.6" y="129.2" fill="none" width="4.2" height="5.9"/>
+			<text transform="matrix(0 -1 1 0 70.854 133.8093)" fill="#231F20" font-family="'DroidSans'" font-size="3px">19</text>
+			<rect x="68.6" y="121.8" fill="none" width="4.2" height="5.9"/>
+			<text transform="matrix(0 -1 1 0 70.854 126.4021)" fill="#231F20" font-family="'DroidSans'" font-size="3px">20</text>
+			<rect x="68.5" y="114.9" fill="none" width="4.2" height="5.9"/>
+			<text transform="matrix(0 -1 1 0 70.8237 119.4773)" fill="#231F20" font-family="'DroidSans'" font-size="3px">21</text>
+			<rect x="68.6" y="108.1" fill="none" width="4.2" height="5.9"/>
+			<text transform="matrix(0 -1 1 0 70.8843 112.6746)" fill="#231F20" font-family="'DroidSans'" font-size="3px">47</text>
+			<rect x="68.7" y="100.8" fill="none" width="4.2" height="5.9"/>
+			<text transform="matrix(0 -1 1 0 70.9409 105.3923)" fill="#231F20" font-family="'DroidSans'" font-size="3px">48</text>
+			<rect x="68.6" y="93.5" fill="none" width="4.2" height="5.9"/>
+			<text transform="matrix(0 -1 1 0 70.8443 98.0828)" fill="#231F20" font-family="'DroidSans'" font-size="3px">45</text>
+			<rect x="68.6" y="86.4" fill="none" width="4.2" height="5.9"/>
+			<text transform="matrix(0 -1 1 0 70.8443 90.2117)" fill="#231F20" font-family="'DroidSans'" font-size="3px">0</text>
+			<rect x="68.5" y="79.3" fill="none" width="4.2" height="5.9"/>
+			<text transform="matrix(0 -1 1 0 70.7534 83.8718)" fill="#231F20" font-family="'DroidSans'" font-size="3px">35</text>
+			<rect x="66.7" y="79.3" fill="none" width="4.2" height="5.9"/>
+			<text transform="matrix(0 -1 1 0 69.022 83.0261)" fill="#231F20" font-family="'DroidSans'" font-size="3px">*</text>
+			<rect x="66.7" y="72.1" fill="none" width="4.2" height="5.9"/>
+			<text transform="matrix(0 -1 1 0 68.9761 75.8601)" fill="#231F20" font-family="'DroidSans'" font-size="3px">*</text>
+			<rect x="66.8" y="64.9" fill="none" width="4.2" height="5.9"/>
+			<text transform="matrix(0 -1 1 0 69.0669 68.6629)" fill="#231F20" font-family="'DroidSans'" font-size="3px">*</text>
+			<rect x="66.5" y="57.6" fill="none" width="4.2" height="5.9"/>
+			<text transform="matrix(0 -1 1 0 68.731 61.3318)" fill="#231F20" font-family="'DroidSans'" font-size="3px">~</text>
+			<rect x="66.5" y="50.5" fill="none" width="4.2" height="5.9"/>
+			<text transform="matrix(0 -1 1 0 68.7915 54.2869)" fill="#231F20" font-family="'DroidSans'" font-size="3px">~</text>
+			<rect x="66.5" y="43.3" fill="none" width="4.2" height="5.9"/>
+			<text transform="matrix(0 -1 1 0 68.7612 47.0906)" fill="#231F20" font-family="'DroidSans'" font-size="3px">~</text>
+			<rect x="68.5" y="72.1" fill="none" width="4.2" height="5.9"/>
+			<text transform="matrix(0 -1 1 0 70.7837 76.7058)" fill="#231F20" font-family="'DroidSans'" font-size="3px">36</text>
+			<rect x="68.5" y="64.9" fill="none" width="4.2" height="5.9"/>
+			<text transform="matrix(0 -1 1 0 70.814 69.5105)" fill="#231F20" font-family="'DroidSans'" font-size="3px">37</text>
+			<rect x="68.5" y="57.9" fill="none" width="4.2" height="5.9"/>
+			<text transform="matrix(0 -1 1 0 70.7837 62.4949)" fill="#231F20" font-family="'DroidSans'" font-size="3px">38   </text>
+			<rect x="68.6" y="50.7" fill="none" width="4.2" height="5.9"/>
+			<text transform="matrix(0 -1 1 0 70.8745 55.2996)" fill="#231F20" font-family="'DroidSans'" font-size="3px">39</text>
+			<rect x="68.6" y="43.6" fill="none" width="4.2" height="5.9"/>
+			<text transform="matrix(0 -1 1 0 70.8745 48.1629)" fill="#231F20" font-family="'DroidSans'" font-size="3px">40</text>
+			<rect x="68.6" y="36.3" fill="none" width="4.2" height="5.9"/>
+			<text transform="matrix(0 -1 1 0 70.8443 40.907)" fill="#231F20" font-family="'DroidSans'" font-size="3px">41</text>
+			<rect x="68.6" y="28.5" fill="none" width="4.2" height="5.9"/>
+			<text transform="matrix(0 -1 1 0 70.8443 33.075)" fill="#231F20" font-family="'DroidSans'" font-size="3px">42</text>
+			<rect x="68.6" y="22.2" fill="none" width="4.2" height="5.9"/>
+			<text transform="matrix(0 -1 1 0 70.9087 25.9422)" fill="#231F20" font-family="'DroidSans'" font-size="3px">2</text>
+			<rect x="68.6" y="15.3" fill="none" width="4.2" height="5.9"/>
+			<text transform="matrix(0 -1 1 0 70.8745 19.0652)" fill="#231F20" font-family="'DroidSans'" font-size="3px">1</text>
+			<rect x="68.6" y="8.1" fill="none" width="4.2" height="5.9"/>
+			<text transform="matrix(0 -1 1 0 70.9136 12.7586)" fill="#231F20" font-family="'DroidSans'" font-size="3px">RX</text>
+			<rect x="68.6" y="1.2" fill="none" width="4.2" height="5.9"/>
+			<text transform="matrix(0 -1 1 0 70.8892 5.7634)" fill="#231F20" font-family="'DroidSans'" font-size="3px">TX</text>
+			<rect x="4.3" y="129.1" fill="none" width="4.2" height="5.9"/>
+			<text transform="matrix(0 -1 1 0 6.543 133.741)" fill="#231F20" font-family="'DroidSans'" font-size="3px">14</text>
+			<rect x="4.2" y="121.8" fill="none" width="4.2" height="5.9"/>
+			<text transform="matrix(0 -1 1 0 6.5127 126.3543)" fill="#231F20" font-family="'DroidSans'" font-size="3px">13</text>
+			<rect x="4.3" y="114.4" fill="none" width="4.2" height="5.9"/>
+			<text transform="matrix(0 -1 1 0 6.543 118.9988)" fill="#231F20" font-family="'DroidSans'" font-size="3px">12</text>
+			<rect x="4.3" y="107.6" fill="none" width="4.2" height="5.9"/>
+			<text transform="matrix(0 -1 1 0 6.5733 112.2117)" fill="#231F20" font-family="'DroidSans'" font-size="3px">11</text>
+			<rect x="4.3" y="100.8" fill="none" width="4.2" height="5.9"/>
+			<text transform="matrix(0 -1 1 0 6.543 105.3523)" fill="#231F20" font-family="'DroidSans'" font-size="3px">10 </text>
+			<rect x="4.3" y="93.6" fill="none" width="4.2" height="5.9"/>
+			<text transform="matrix(0 -1 1 0 6.543 97.3289)" fill="#231F20" font-family="'DroidSans'" font-size="3px">9</text>
+			<rect x="4.2" y="86.4" fill="none" width="4.2" height="5.9"/>
+			<text transform="matrix(0 -1 1 0 6.46 90.9949)" fill="#231F20" font-family="'DroidSans'" font-size="3px">46</text>
+			<rect x="4.3" y="79.3" fill="none" width="4.2" height="5.9"/>
+			<text transform="matrix(0 -1 1 0 6.5547 83.0418)" fill="#231F20" font-family="'DroidSans'" font-size="3px">3</text>
+			<rect x="4.2" y="72.1" fill="none" width="4.2" height="5.9"/>
+			<text transform="matrix(0 -1 1 0 6.5088 75.8738)" fill="#231F20" font-family="'DroidSans'" font-size="3px">8</text>
+			<rect x="4.3" y="65.1" fill="none" width="4.2" height="5.9"/>
+			<text transform="matrix(0 -1 1 0 6.543 69.7332)" fill="#231F20" font-family="'DroidSans'" font-size="3px">18</text>
+			<rect x="4.3" y="57.9" fill="none" width="4.2" height="5.9"/>
+			<text transform="matrix(0 -1 1 0 6.543 62.4773)" fill="#231F20" font-family="'DroidSans'" font-size="3px">17</text>
+			<rect x="4.3" y="51.2" fill="none" width="4.2" height="5.9"/>
+			<text transform="matrix(0 -1 1 0 6.5342 55.8416)" fill="#231F20" font-family="'DroidSans'" font-size="3px">16</text>
+			<rect x="4.3" y="43.9" fill="none" width="4.2" height="5.9"/>
+			<text transform="matrix(0 -1 1 0 6.543 48.4793)" fill="#231F20" font-family="'DroidSans'" font-size="3px">15</text>
+			<rect x="4.3" y="36.3" fill="none" width="4.2" height="5.9"/>
+			<text transform="matrix(0 -1 1 0 6.5586 40.1082)" fill="#231F20" font-family="'DroidSans'" font-size="3px">7</text>
+			<rect x="4.2" y="29.4" fill="none" width="4.2" height="5.9"/>
+			<text transform="matrix(0 -1 1 0 6.4893 33.1609)" fill="#231F20" font-family="'DroidSans'" font-size="3px">6</text>
+			<rect x="4.2" y="22.2" fill="none" width="4.2" height="5.9"/>
+			<text transform="matrix(0 -1 1 0 6.459 25.9812)" fill="#231F20" font-family="'DroidSans'" font-size="3px">5</text>
+			<rect x="4.3" y="15.3" fill="none" width="4.2" height="5.9"/>
+			<text transform="matrix(0 -1 1 0 6.543 19.0496)" fill="#231F20" font-family="'DroidSans'" font-size="3px">4</text>
+			<rect x="4.2" y="7.9" fill="none" width="4.2" height="5.9"/>
+			<text transform="matrix(0 -1 1 0 6.4795 12.6853)" fill="#231F20" font-family="'DroidSans'" font-size="3px">EN</text>
+			<rect x="4.2" y="0.6" fill="none" width="4.2" height="5.9"/>
+			<text transform="matrix(0 -1 1 0 6.5254 5.5086)" fill="#231F20" font-family="'DroidSans'" font-size="3px">3</text>
+			<text transform="matrix(0 -1 1 0 6.5254 3.9256)" fill="#231F20" font-family="'DroidSans'" font-size="3px">.</text>
+			<text transform="matrix(0 -1 1 0 6.5254 3.1892)" fill="#231F20" font-family="'DroidSans'" font-size="3px">3</text>
+			<g id="Layer_7">
+				
+					<line fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-miterlimit="10" x1="0.4" y1="3.9" x2="3.4" y2="3.9"/>
+				
+					<line fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-miterlimit="10" x1="0.4" y1="11" x2="3.4" y2="11"/>
+				
+					<line fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-miterlimit="10" x1="0.4" y1="18.2" x2="3.4" y2="18.2"/>
+				
+					<line fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-miterlimit="10" x1="0.4" y1="25.3" x2="3.4" y2="25.3"/>
+				
+					<line fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-miterlimit="10" x1="0.4" y1="32.4" x2="3.4" y2="32.4"/>
+				
+					<line fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-miterlimit="10" x1="0.4" y1="39.7" x2="3.4" y2="39.7"/>
+				
+					<line fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-miterlimit="10" x1="0.4" y1="46.7" x2="3.4" y2="46.7"/>
+				
+					<line fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-miterlimit="10" x1="0.4" y1="53.9" x2="3.4" y2="53.9"/>
+				
+					<line fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-miterlimit="10" x1="0.4" y1="61" x2="3.4" y2="61"/>
+				
+					<line fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-miterlimit="10" x1="0.4" y1="68.1" x2="3.4" y2="68.1"/>
+				
+					<line fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-miterlimit="10" x1="0.4" y1="75.3" x2="3.4" y2="75.3"/>
+				
+					<line fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-miterlimit="10" x1="0.4" y1="82.5" x2="3.4" y2="82.5"/>
+				
+					<line fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-miterlimit="10" x1="0.4" y1="89.5" x2="3.4" y2="89.5"/>
+				
+					<line fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-miterlimit="10" x1="0.4" y1="96.6" x2="3.4" y2="96.6"/>
+				
+					<line fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-miterlimit="10" x1="0.4" y1="103.8" x2="3.5" y2="103.8"/>
+				
+					<line fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-miterlimit="10" x1="0.4" y1="110.8" x2="3.4" y2="110.8"/>
+				
+					<line fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-miterlimit="10" x1="0.4" y1="117.9" x2="3.4" y2="117.9"/>
+				
+					<line fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-miterlimit="10" x1="0.4" y1="125.1" x2="3.5" y2="125.1"/>
+				
+					<line fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-miterlimit="10" x1="0.4" y1="132.3" x2="3.4" y2="132.3"/>
+				
+					<line fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-miterlimit="10" x1="0.4" y1="139.4" x2="3.4" y2="139.4"/>
+				
+					<line fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-miterlimit="10" x1="71.7" y1="139.4" x2="74.7" y2="139.4"/>
+				
+					<line fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-miterlimit="10" x1="71.7" y1="132.2" x2="74.8" y2="132.2"/>
+				
+					<line fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-miterlimit="10" x1="71.7" y1="124.9" x2="74.7" y2="124.9"/>
+				
+					<line fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-miterlimit="10" x1="71.7" y1="117.8" x2="74.7" y2="117.8"/>
+				
+					<line fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-miterlimit="10" x1="71.7" y1="110.8" x2="74.8" y2="110.8"/>
+				
+					<line fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-miterlimit="10" x1="71.7" y1="103.6" x2="74.8" y2="103.6"/>
+				
+					<line fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-miterlimit="10" x1="71.7" y1="96.4" x2="74.8" y2="96.4"/>
+				
+					<line fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-miterlimit="10" x1="71.7" y1="89.4" x2="74.7" y2="89.4"/>
+				
+					<line fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-miterlimit="10" x1="71.7" y1="82.3" x2="74.7" y2="82.3"/>
+				
+					<line fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-miterlimit="10" x1="71.7" y1="75.2" x2="74.7" y2="75.2"/>
+				
+					<line fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-miterlimit="10" x1="71.7" y1="68" x2="74.7" y2="68"/>
+				
+					<line fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-miterlimit="10" x1="71.7" y1="60.8" x2="74.7" y2="60.8"/>
+				
+					<line fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-miterlimit="10" x1="71.7" y1="53.7" x2="74.8" y2="53.7"/>
+				
+					<line fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-miterlimit="10" x1="71.7" y1="46.5" x2="74.7" y2="46.5"/>
+				
+					<line fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-miterlimit="10" x1="71.7" y1="39.6" x2="74.7" y2="39.6"/>
+				
+					<line fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-miterlimit="10" x1="71.7" y1="32.3" x2="74.7" y2="32.3"/>
+				
+					<line fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-miterlimit="10" x1="71.7" y1="25.2" x2="74.7" y2="25.2"/>
+				
+					<line fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-miterlimit="10" x1="71.7" y1="18.1" x2="74.8" y2="18.1"/>
+				
+					<line fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-miterlimit="10" x1="71.7" y1="3.8" x2="74.7" y2="3.8"/>
+				
+					<line fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-miterlimit="10" x1="71.7" y1="10.9" x2="74.7" y2="10.9"/>
+			</g>
+			<g id="Layer_6">
+				<line fill="none" stroke="#231F20" stroke-width="0.25" stroke-miterlimit="10" x1="7.4" y1="126.8" x2="7.4" y2="122.9"/>
+				<line fill="#231F20" stroke="#231F20" stroke-width="0.25" stroke-miterlimit="10" x1="7.5" y1="119.3" x2="7.5" y2="115.4"/>
+				<line fill="#231F20" stroke="#231F20" stroke-width="0.25" stroke-miterlimit="10" x1="7.6" y1="112.5" x2="7.6" y2="108.6"/>
+				<line fill="#231F20" stroke="#231F20" stroke-width="0.25" stroke-miterlimit="10" x1="7.3" y1="105.8" x2="7.3" y2="101.8"/>
+				<line fill="#231F20" stroke="#231F20" stroke-width="0.25" stroke-miterlimit="10" x1="7.4" y1="98.5" x2="7.4" y2="94.6"/>
+				<line fill="#231F20" stroke="#231F20" stroke-width="0.25" stroke-miterlimit="10" x1="7.3" y1="77.1" x2="7.3" y2="73.1"/>
+				<line fill="#231F20" stroke="#231F20" stroke-width="0.25" stroke-miterlimit="10" x1="7.3" y1="70.1" x2="7.3" y2="66.1"/>
+				<line fill="#231F20" stroke="#231F20" stroke-width="0.25" stroke-miterlimit="10" x1="7.3" y1="62.9" x2="7.3" y2="59"/>
+				<line fill="#231F20" stroke="#231F20" stroke-width="0.25" stroke-miterlimit="10" x1="7.3" y1="56.2" x2="7.3" y2="52.3"/>
+				<line fill="#231F20" stroke="#231F20" stroke-width="0.25" stroke-miterlimit="10" x1="7.3" y1="48.9" x2="7.3" y2="44.9"/>
+				<line fill="#231F20" stroke="#231F20" stroke-width="0.25" stroke-miterlimit="10" x1="7.3" y1="41.3" x2="7.3" y2="37.3"/>
+				<line fill="#231F20" stroke="#231F20" stroke-width="0.25" stroke-miterlimit="10" x1="7.3" y1="34.3" x2="7.3" y2="30.4"/>
+				<line fill="#231F20" stroke="#231F20" stroke-width="0.25" stroke-miterlimit="10" x1="7.3" y1="27.1" x2="7.3" y2="23.2"/>
+				<line fill="#231F20" stroke="#231F20" stroke-width="0.25" stroke-miterlimit="10" x1="7.3" y1="20.1" x2="7.3" y2="16.2"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

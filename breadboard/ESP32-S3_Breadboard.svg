@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.9.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 width="1.09in" height="2.23in" viewBox="0 0 78.5 160.4" overflow="visible" xml:space="preserve">
+<g id="breadboard">
+	<path fill="#030303" d="M65.1,17.3V0H14.4v17.3H0V160h78.5V17.3H65.1z M3.6,158c-0.8,0-1.5-0.7-1.5-1.5c0-0.8,0.7-1.5,1.5-1.5
+		c0.8,0,1.5,0.7,1.5,1.5C5,157.3,4.4,158,3.6,158z M3.6,150.8c-0.8,0-1.5-0.7-1.5-1.5c0-0.8,0.7-1.5,1.5-1.5c0.8,0,1.5,0.7,1.5,1.5
+		C5,150.1,4.4,150.8,3.6,150.8z M3.6,143.6c-0.8,0-1.5-0.7-1.5-1.5c0-0.8,0.7-1.5,1.5-1.5c0.8,0,1.5,0.7,1.5,1.5
+		C5,142.9,4.4,143.6,3.6,143.6z M3.6,136.4c-0.8,0-1.5-0.7-1.5-1.5c0-0.8,0.7-1.5,1.5-1.5c0.8,0,1.5,0.7,1.5,1.5
+		C5,135.7,4.4,136.4,3.6,136.4z M3.6,129.3c-0.8,0-1.5-0.7-1.5-1.5c0-0.8,0.7-1.5,1.5-1.5c0.8,0,1.5,0.7,1.5,1.5
+		C5,128.7,4.4,129.3,3.6,129.3z M3.6,122.3c-0.8,0-1.5-0.7-1.5-1.5c0-0.8,0.7-1.5,1.5-1.5c0.8,0,1.5,0.7,1.5,1.5
+		C5,121.6,4.4,122.3,3.6,122.3z M3.6,115.1c-0.8,0-1.5-0.7-1.5-1.5c0-0.8,0.7-1.5,1.5-1.5c0.8,0,1.5,0.7,1.5,1.5
+		C5,114.4,4.4,115.1,3.6,115.1z M3.6,108c-0.8,0-1.5-0.7-1.5-1.5c0-0.8,0.7-1.5,1.5-1.5c0.8,0,1.5,0.7,1.5,1.5
+		C5,107.4,4.4,108,3.6,108z M3.6,101c-0.8,0-1.5-0.7-1.5-1.5c0-0.8,0.7-1.5,1.5-1.5C4.4,98,5,98.7,5,99.5C5,100.3,4.4,101,3.6,101z
+		 M3.6,93.8c-0.8,0-1.5-0.7-1.5-1.5c0-0.8,0.7-1.5,1.5-1.5c0.8,0,1.5,0.7,1.5,1.5C5,93.2,4.4,93.8,3.6,93.8z M3.6,86.6
+		c-0.8,0-1.5-0.7-1.5-1.5c0-0.8,0.7-1.5,1.5-1.5c0.8,0,1.5,0.7,1.5,1.5C5,86,4.4,86.6,3.6,86.6z M3.6,79.5c-0.8,0-1.5-0.7-1.5-1.5
+		c0-0.8,0.7-1.5,1.5-1.5C4.4,76.6,5,77.2,5,78C5,78.8,4.4,79.5,3.6,79.5z M3.6,72.3c-0.8,0-1.5-0.7-1.5-1.5s0.7-1.5,1.5-1.5
+		c0.8,0,1.5,0.7,1.5,1.5S4.4,72.3,3.6,72.3z M3.6,65.2c-0.8,0-1.5-0.7-1.5-1.5c0-0.8,0.7-1.5,1.5-1.5c0.8,0,1.5,0.7,1.5,1.5
+		C5,64.5,4.4,65.2,3.6,65.2z M3.6,58.2c-0.8,0-1.5-0.7-1.5-1.5c0-0.8,0.7-1.5,1.5-1.5c0.8,0,1.5,0.7,1.5,1.5
+		C5,57.5,4.4,58.2,3.6,58.2z M3.6,50.9c-0.8,0-1.5-0.7-1.5-1.5c0-0.8,0.7-1.5,1.5-1.5C4.4,48,5,48.6,5,49.4
+		C5,50.2,4.4,50.9,3.6,50.9z M3.6,43.8c-0.8,0-1.5-0.7-1.5-1.5c0-0.8,0.7-1.5,1.5-1.5c0.8,0,1.5,0.7,1.5,1.5
+		C5,43.2,4.4,43.8,3.6,43.8z M3.6,36.7c-0.8,0-1.5-0.7-1.5-1.5c0-0.8,0.7-1.5,1.5-1.5c0.8,0,1.5,0.7,1.5,1.5
+		C5,36.1,4.4,36.7,3.6,36.7z M3.6,29.5c-0.8,0-1.5-0.7-1.5-1.5c0-0.8,0.7-1.5,1.5-1.5C4.4,26.6,5,27.2,5,28
+		C5,28.8,4.4,29.5,3.6,29.5z M3.6,22.4c-0.8,0-1.5-0.7-1.5-1.5c0-0.8,0.7-1.5,1.5-1.5C4.4,19.5,5,20.2,5,21
+		C5,21.8,4.4,22.4,3.6,22.4z M74.9,157.9c-0.8,0-1.5-0.7-1.5-1.5s0.7-1.5,1.5-1.5c0.8,0,1.5,0.7,1.5,1.5S75.7,157.9,74.9,157.9z
+		 M74.9,150.7c-0.8,0-1.5-0.7-1.5-1.5s0.7-1.5,1.5-1.5c0.8,0,1.5,0.7,1.5,1.5S75.7,150.7,74.9,150.7z M74.9,143.5
+		c-0.8,0-1.5-0.7-1.5-1.5s0.7-1.5,1.5-1.5c0.8,0,1.5,0.7,1.5,1.5S75.7,143.5,74.9,143.5z M74.9,136.3c-0.8,0-1.5-0.7-1.5-1.5
+		s0.7-1.5,1.5-1.5c0.8,0,1.5,0.7,1.5,1.5S75.7,136.3,74.9,136.3z M74.9,129.3c-0.8,0-1.5-0.7-1.5-1.5s0.7-1.5,1.5-1.5
+		c0.8,0,1.5,0.7,1.5,1.5S75.7,129.3,74.9,129.3z M74.9,122.2c-0.8,0-1.5-0.7-1.5-1.5c0-0.8,0.7-1.5,1.5-1.5c0.8,0,1.5,0.7,1.5,1.5
+		C76.3,121.5,75.7,122.2,74.9,122.2z M74.9,115c-0.8,0-1.5-0.7-1.5-1.5c0-0.8,0.7-1.5,1.5-1.5c0.8,0,1.5,0.7,1.5,1.5
+		C76.3,114.3,75.7,115,74.9,115z M74.9,107.9c-0.8,0-1.5-0.7-1.5-1.5s0.7-1.5,1.5-1.5c0.8,0,1.5,0.7,1.5,1.5S75.7,107.9,74.9,107.9z
+		 M74.9,100.9c-0.8,0-1.5-0.7-1.5-1.5c0-0.8,0.7-1.5,1.5-1.5c0.8,0,1.5,0.7,1.5,1.5C76.3,100.2,75.7,100.9,74.9,100.9z M74.9,93.7
+		c-0.8,0-1.5-0.7-1.5-1.5c0-0.8,0.7-1.5,1.5-1.5c0.8,0,1.5,0.7,1.5,1.5C76.3,93.1,75.7,93.7,74.9,93.7z M74.9,86.6
+		c-0.8,0-1.5-0.7-1.5-1.5c0-0.8,0.7-1.5,1.5-1.5c0.8,0,1.5,0.7,1.5,1.5C76.3,85.9,75.7,86.6,74.9,86.6z M74.9,79.4
+		c-0.8,0-1.5-0.7-1.5-1.5c0-0.8,0.7-1.5,1.5-1.5c0.8,0,1.5,0.7,1.5,1.5C76.3,78.7,75.7,79.4,74.9,79.4z M74.9,72.3
+		c-0.8,0-1.5-0.7-1.5-1.5s0.7-1.5,1.5-1.5c0.8,0,1.5,0.7,1.5,1.5S75.7,72.3,74.9,72.3z M74.9,65.1c-0.8,0-1.5-0.7-1.5-1.5
+		c0-0.8,0.7-1.5,1.5-1.5c0.8,0,1.5,0.7,1.5,1.5C76.3,64.5,75.7,65.1,74.9,65.1z M74.9,58.1c-0.8,0-1.5-0.7-1.5-1.5
+		c0-0.8,0.7-1.5,1.5-1.5c0.8,0,1.5,0.7,1.5,1.5C76.3,57.5,75.7,58.1,74.9,58.1z M74.9,50.8c-0.8,0-1.5-0.7-1.5-1.5
+		c0-0.8,0.7-1.5,1.5-1.5c0.8,0,1.5,0.7,1.5,1.5C76.3,50.2,75.7,50.8,74.9,50.8z M74.9,43.7c-0.8,0-1.5-0.7-1.5-1.5
+		c0-0.8,0.7-1.5,1.5-1.5c0.8,0,1.5,0.7,1.5,1.5C76.3,43.1,75.7,43.7,74.9,43.7z M74.9,36.6c-0.8,0-1.5-0.7-1.5-1.5s0.7-1.5,1.5-1.5
+		c0.8,0,1.5,0.7,1.5,1.5S75.7,36.6,74.9,36.6z M74.9,29.4c-0.8,0-1.5-0.7-1.5-1.5c0-0.8,0.7-1.5,1.5-1.5c0.8,0,1.5,0.7,1.5,1.5
+		C76.3,28.8,75.7,29.4,74.9,29.4z M74.9,22.3c-0.8,0-1.5-0.7-1.5-1.5c0-0.8,0.7-1.5,1.5-1.5c0.8,0,1.5,0.7,1.5,1.5
+		C76.3,21.7,75.7,22.3,74.9,22.3z"/>
+	<g id="chips">
+		<rect x="14.4" y="19.8" fill="#515252" width="50.7" height="52.5"/>
+		<path fill="none" stroke="#5C5E60" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10" d="M52.2,16.5V4.2
+			 M20.9,15.1V4.2h5.7v6.8h6.6V4.2h6.3v6.9h6.7V4.2h5.9h6.2v12.2"/>
+		<g id="Layer_8">
+		</g>
+		<rect x="14.7" y="106.8" fill="#FFFFFF" width="26.2" height="5.7"/>
+		<rect x="41.4" y="106.8" fill="#FFFFFF" width="21.5" height="5.7"/>
+		<rect x="22.8" y="113" fill="#FFFFFF" width="31.7" height="6.4"/>
+		<rect x="43.6" y="122.1" fill="#FFFFFF" width="6.2" height="6.7"/>
+		<rect x="11.7" y="119.7" fill="#FFFFFF" width="8.4" height="10.9"/>
+		<rect x="58.5" y="119.7" fill="#FFFFFF" width="8.2" height="10.9"/>
+		<rect x="59.2" y="119.7" fill="#B6B7B9" width="6.8" height="10.8"/>
+		<rect x="12.4" y="119.7" fill="#B6B7B9" width="6.9" height="10.9"/>
+		<path fill="#B6B7B9" d="M14.2,159.8v-21.4h2.9c0,0,0,1.7,0,2.6c0,0.8,0.7,0.8,0.7,0.8h3.7c0,0,0.7,0,0.7-0.7s0-0.8,0-0.8
+			s-2.1,0-2.5,0s-0.4-0.3-0.4-0.3v-1.6h12.2c0,0,0,1.1,0,1.6c0,0.5-0.6,0.5-0.6,0.5h-1H29h-0.4v0.7c0,0.7,0.7,0.6,0.7,0.6H33
+			c0.8,0,0.8-0.8,0.8-0.8v-2.5h2.8v21.4H14.2z"/>
+		<path fill="#B6B7B9" d="M42.8,159.8v-21.4h2.9c0,0,0,1.7,0,2.6c0,0.8,0.7,0.8,0.7,0.8h3.7c0,0,0.7,0,0.7-0.7s0-0.8,0-0.8
+			s-2.1,0-2.5,0s-0.4-0.3-0.4-0.3v-1.6h12.2c0,0,0,1.1,0,1.6c0,0.5-0.6,0.5-0.6,0.5h-1h-0.8h-0.4v0.7c0,0.7,0.7,0.6,0.7,0.6h3.6
+			c0.8,0,0.8-0.8,0.8-0.8v-2.5h2.8v21.4H42.8z"/>
+		<ellipse fill="#807F82" cx="21" cy="146.3" rx="2.1" ry="1.3"/>
+		<ellipse fill="#807F82" cx="29.5" cy="146.3" rx="2.1" ry="1.3"/>
+		<ellipse fill="#807F82" cx="49.7" cy="146.3" rx="2.1" ry="1.3"/>
+		<ellipse fill="#807F82" cx="58.2" cy="146.3" rx="2.1" ry="1.3"/>
+		<path fill="#FFFFFF" d="M63,103.3V87.2H15.3v16.1h7v-0.3h0.3h1h0.5h1h0.2h1h0.5h1h0.5h1h0.5h1H31h1h0.5h1h0.2h1h0.5h1h0.5h1h0.4h1
+			h0.3h1h0.5h1h0.3h1h0.5h1h0.5h1h0.3h1h0.5h1h0.5h1h0.2h1H52h1h0.5h1h0.2h1h0.7v0.3H63z M22.3,92.2h-0.7h-2.7v-2.7H16v-1.6h46.4
+			v1.6h-3.1v2.7H57h-0.7h-0.8h-0.7h-0.5h-0.7h-0.7h-0.7h-0.7h-0.7H50h-0.7h-0.7h-0.7h-0.6h-0.7h-0.7h-0.7h-0.7h-0.7h-0.5h-0.7h-0.8
+			h-0.7h-0.5h-0.7h-0.8h-0.7h-0.7h-0.7h-0.5h-0.7h-0.7H34h-0.8h-0.7h-0.6h-0.7h-0.7h-0.7H29h-0.7h-0.5H27h-0.8h-0.7H25h-0.7h-0.6
+			h-0.7H22.3z"/>
+		<polygon fill="#FFFFFF" points="28.3,122.9 28.3,124.4 28.3,126.6 28.3,127.9 30.1,127.9 30.1,126.6 30.1,124.4 30.1,122.9 		"/>
+		<rect x="28.3" y="124.9" fill="#CDCDCE" width="1.8" height="1.2"/>
+		<polygon fill="#FFFFFF" points="31.8,122.9 31.8,124.4 31.8,126.6 31.8,127.9 33.6,127.9 33.6,126.6 33.6,124.4 33.6,122.9 		"/>
+		<rect x="31.8" y="124.9" fill="#CDCDCE" width="1.8" height="1.2"/>
+		<polygon fill="#FFFFFF" points="35.5,122.9 35.5,124.4 35.5,126.6 35.5,127.9 37.3,127.9 37.3,126.6 37.3,124.4 37.3,122.9 		"/>
+		<rect x="35.5" y="124.9" fill="#CDCDCE" width="1.8" height="1.2"/>
+		<polygon fill="#FFFFFF" points="39,122.9 39,124.4 39,126.6 39,127.9 40.8,127.9 40.8,126.6 40.8,124.4 40.8,122.9 		"/>
+		<rect x="39" y="124.9" fill="#CDCDCE" width="1.8" height="1.2"/>
+		<polygon fill="#C2C3C5" points="62.9,26.6 62.9,25.6 62.9,23.1 62.9,22.1 62.9,19.6 62.9,19.3 17.4,19.3 17.4,19.6 17.4,22.1 
+			17.4,23.1 17.4,25.5 17.4,26.6 17.4,29 17.4,30 17.4,32.5 17.4,33.5 17.4,35.9 17.4,37 17.4,39.4 17.4,40.4 17.4,42.9 17.4,44.1 
+			17.4,46.6 17.4,47.6 17.4,50.1 17.4,51.1 17.4,53.5 17.4,54.5 17.4,57 17.4,58 17.4,60.5 17.4,61.7 17.4,64.2 17.4,65.2 
+			17.4,67.7 17.4,68.7 17.4,71.1 17.4,72.1 19.9,72.1 22.3,72.1 23.3,72.1 25.8,72.1 26.5,72.1 29,72.1 30,72.1 32.5,72.1 
+			33.5,72.1 35.9,72.1 36.9,72.1 39.4,72.1 40.4,72.1 42.9,72.1 43.9,72.1 46.4,72.1 47.3,72.1 49.8,72.1 50.6,72.1 53,72.1 
+			54,72.1 56.5,72.1 57.5,72.1 60,72.1 62.9,72.1 62.9,71.1 62.9,68.7 62.9,67.7 62.9,65.2 62.9,64.2 62.9,61.7 62.9,60.5 62.9,58 
+			62.9,57 62.9,54.5 62.9,53.6 62.9,51.1 62.9,50.1 62.9,47.6 62.9,46.6 62.9,44.2 62.9,42.9 62.9,40.4 62.9,39.4 62.9,37 62.9,36 
+			62.9,33.5 62.9,32.5 62.9,30 62.9,29 		"/>
+		<circle id="button-BOOT-100" fill="#030303" cx="62.6" cy="125.2" r="2.3"/>
+		<circle id="button-EN-RST" fill="#030303" cx="15.8" cy="125.2" r="2.3"/>
+		<g>
+			<polygon fill="none" points="22.8,90.4 23.6,90.4 23.6,92.2 24.2,92.2 24.2,90.4 25,90.4 25,92.2 25.5,92.2 25.5,90.4 26.3,90.4 
+				26.3,92.2 27,92.2 27,90.4 27.8,90.4 27.8,92.2 28.3,92.2 28.3,90.4 29,90.4 29,92.2 29.8,92.2 29.8,90.4 30.5,90.4 30.5,92.2 
+				31.2,92.2 31.2,90.4 31.9,90.4 31.9,92.2 32.5,92.2 32.5,90.4 33.2,90.4 33.2,92.2 34,92.2 34,90.4 34.7,90.4 34.7,92.2 
+				35.5,92.2 35.5,90.4 36.2,90.4 36.2,92.2 36.7,92.2 36.7,90.4 37.4,90.4 37.4,92.2 38.2,92.2 38.2,90.4 38.9,90.4 38.9,92.2 
+				39.7,92.2 39.7,90.4 40.4,90.4 40.4,92.2 40.9,92.2 40.9,90.4 41.6,90.4 41.6,92.2 42.4,92.2 42.4,90.4 43.2,90.4 43.2,92.2 
+				43.6,92.2 43.6,90.4 44.4,90.4 44.4,92.2 45.1,92.2 45.1,90.4 45.9,90.4 45.9,92.2 46.5,92.2 46.5,90.4 47.3,90.4 47.3,92.2 
+				47.8,92.2 47.8,90.4 48.6,90.4 48.6,92.2 49.3,92.2 49.3,90.4 50,90.4 50,92.2 50.6,92.2 50.6,90.4 51.3,90.4 51.3,92.2 
+				52.1,92.2 52.1,90.4 52.8,90.4 52.8,92.2 53.5,92.2 53.5,90.4 54.3,90.4 54.3,92.2 54.7,92.2 54.7,90.4 55.5,90.4 55.5,92.2 
+				56.3,92.2 56.3,90.4 57,90.4 57,92.2 59.2,92.2 59.2,89.5 62.4,89.5 62.4,87.8 16,87.8 16,89.5 18.9,89.5 18.9,92.2 21.6,92.2 
+				21.6,90.4 22.3,90.4 22.3,92.2 22.8,92.2 			"/>
+			<rect x="13.4" y="19.6" fill="#DEB554" width="3.9" height="2.5"/>
+			<rect x="13.4" y="23.1" fill="#DEB554" width="3.9" height="2.5"/>
+			<rect x="13.4" y="26.6" fill="#DEB554" width="3.9" height="2.5"/>
+			<rect x="13.4" y="30" fill="#DEB554" width="3.9" height="2.5"/>
+			<rect x="13.4" y="33.5" fill="#DEB554" width="3.9" height="2.5"/>
+			<rect x="13.4" y="37" fill="#DEB554" width="3.9" height="2.5"/>
+			<rect x="13.4" y="44.1" fill="#DEB554" width="3.9" height="2.5"/>
+			<rect x="13.4" y="47.6" fill="#DEB554" width="3.9" height="2.5"/>
+			<rect x="13.4" y="51.1" fill="#DEB554" width="3.9" height="2.5"/>
+			<rect x="13.4" y="54.5" fill="#DEB554" width="3.9" height="2.5"/>
+			<rect x="13.4" y="58" fill="#DEB554" width="3.9" height="2.5"/>
+			<rect x="13.4" y="61.7" fill="#DEB554" width="3.9" height="2.5"/>
+			<rect x="13.4" y="65.2" fill="#DEB554" width="3.9" height="2.5"/>
+			<rect x="13.4" y="68.7" fill="#DEB554" width="3.9" height="2.5"/>
+			<rect x="13.4" y="40.4" fill="#DEB554" width="3.9" height="2.5"/>
+			<rect x="62.9" y="19.6" fill="#DEB554" width="3.2" height="2.5"/>
+			<rect x="62.9" y="23.1" fill="#DEB554" width="3.2" height="2.5"/>
+			<rect x="62.9" y="26.6" fill="#DEB554" width="3.2" height="2.5"/>
+			<rect x="62.9" y="30" fill="#DEB554" width="3.2" height="2.5"/>
+			<rect x="62.9" y="33.5" fill="#DEB554" width="3.2" height="2.5"/>
+			<rect x="62.9" y="37" fill="#DEB554" width="3.2" height="2.5"/>
+			<rect x="62.9" y="44.2" fill="#DEB554" width="3.2" height="2.5"/>
+			<rect x="62.9" y="47.6" fill="#DEB554" width="3.2" height="2.5"/>
+			<rect x="62.9" y="51.1" fill="#DEB554" width="3.2" height="2.5"/>
+			<rect x="62.9" y="54.5" fill="#DEB554" width="3.2" height="2.5"/>
+			<rect x="62.9" y="58" fill="#DEB554" width="3.2" height="2.5"/>
+			<rect x="62.9" y="61.7" fill="#DEB554" width="3.2" height="2.5"/>
+			<rect x="62.9" y="65.2" fill="#DEB554" width="3.2" height="2.5"/>
+			<rect x="62.9" y="68.7" fill="#DEB554" width="3.2" height="2.5"/>
+			<rect x="62.9" y="40.4" fill="#DEB554" width="3.2" height="2.5"/>
+			<rect x="19.9" y="72.1" fill="#DEB554" width="2.5" height="2.2"/>
+			<rect x="23.3" y="72.1" fill="#DEB554" width="2.5" height="2.2"/>
+			<rect x="26.5" y="72.1" fill="#DEB554" width="2.5" height="2.2"/>
+			<rect x="30" y="72.1" fill="#DEB554" width="2.5" height="2.2"/>
+			<rect x="33.5" y="72.1" fill="#DEB554" width="2.5" height="2.2"/>
+			<rect x="36.9" y="72.1" fill="#DEB554" width="2.5" height="2.2"/>
+			<rect x="40.4" y="72.1" fill="#DEB554" width="2.5" height="2.2"/>
+			<rect x="43.9" y="72.1" fill="#DEB554" width="2.5" height="2.2"/>
+			<rect x="47.3" y="72.1" fill="#DEB554" width="2.5" height="2.2"/>
+			<rect x="50.6" y="72.1" fill="#DEB554" width="2.5" height="2.2"/>
+			<rect x="54" y="72.1" fill="#DEB554" width="2.5" height="2.2"/>
+			<rect x="57.5" y="72.1" fill="#DEB554" width="2.5" height="2.2"/>
+			<rect x="60" y="117.4" fill="#DEB554" width="5.2" height="4.2"/>
+			<rect x="59.7" y="128.8" fill="#DEB554" width="5.2" height="4.2"/>
+			<rect x="13.1" y="128.8" fill="#DEB554" width="5.2" height="4.2"/>
+			<rect x="13.2" y="117.4" fill="#DEB554" width="5.1" height="4.2"/>
+			<rect x="21.6" y="90.4" fill="#DEB554" width="0.7" height="1.7"/>
+			<rect x="22.8" y="90.4" fill="#DEB554" width="0.7" height="1.7"/>
+			<rect x="24.2" y="90.4" fill="#DEB554" width="0.7" height="1.7"/>
+			<rect x="25.5" y="90.4" fill="#DEB554" width="0.7" height="1.7"/>
+			<rect x="27" y="90.4" fill="#DEB554" width="0.7" height="1.7"/>
+			<rect x="28.3" y="90.4" fill="#DEB554" width="0.7" height="1.7"/>
+			<rect x="29.8" y="90.4" fill="#DEB554" width="0.7" height="1.7"/>
+			<rect x="31.2" y="90.4" fill="#DEB554" width="0.7" height="1.7"/>
+			<rect x="32.5" y="90.4" fill="#DEB554" width="0.7" height="1.7"/>
+			<rect x="34" y="90.4" fill="#DEB554" width="0.7" height="1.7"/>
+			<rect x="35.5" y="90.4" fill="#DEB554" width="0.7" height="1.7"/>
+			<rect x="36.7" y="90.4" fill="#DEB554" width="0.7" height="1.7"/>
+			<rect x="38.2" y="90.4" fill="#DEB554" width="0.7" height="1.7"/>
+			<rect x="39.7" y="90.4" fill="#DEB554" width="0.7" height="1.7"/>
+			<rect x="40.9" y="90.4" fill="#DEB554" width="0.7" height="1.7"/>
+			<rect x="42.4" y="90.4" fill="#DEB554" width="0.7" height="1.7"/>
+			<rect x="43.6" y="90.4" fill="#DEB554" width="0.7" height="1.7"/>
+			<rect x="45.1" y="90.4" fill="#DEB554" width="0.7" height="1.7"/>
+			<rect x="46.5" y="90.4" fill="#DEB554" width="0.7" height="1.7"/>
+			<rect x="47.8" y="90.4" fill="#DEB554" width="0.7" height="1.7"/>
+			<rect x="49.3" y="90.4" fill="#DEB554" width="0.7" height="1.7"/>
+			<rect x="50.6" y="90.4" fill="#DEB554" width="0.7" height="1.7"/>
+			<rect x="52.1" y="90.4" fill="#DEB554" width="0.7" height="1.7"/>
+			<rect x="53.5" y="90.4" fill="#DEB554" width="0.7" height="1.7"/>
+			<rect x="54.7" y="90.4" fill="#DEB554" width="0.7" height="1.7"/>
+			<rect x="56.3" y="90.4" fill="#DEB554" width="0.7" height="1.7"/>
+			<rect x="54.8" y="103.1" fill="#DEB554" width="1" height="1.7"/>
+			<rect x="53.5" y="103.1" fill="#DEB554" width="1" height="1.7"/>
+			<rect x="52" y="103.1" fill="#DEB554" width="1" height="1.7"/>
+			<rect x="50.6" y="103.1" fill="#DEB554" width="1" height="1.7"/>
+			<rect x="49.3" y="103.1" fill="#DEB554" width="1" height="1.7"/>
+			<rect x="47.8" y="103.1" fill="#DEB554" width="1" height="1.7"/>
+			<rect x="46.3" y="103.1" fill="#DEB554" width="1" height="1.7"/>
+			<rect x="45.1" y="103.1" fill="#DEB554" width="1" height="1.7"/>
+			<rect x="43.6" y="103.1" fill="#DEB554" width="1" height="1.7"/>
+			<rect x="42.1" y="103.1" fill="#DEB554" width="1" height="1.7"/>
+			<rect x="40.9" y="103.1" fill="#DEB554" width="1" height="1.7"/>
+			<rect x="39.4" y="103.1" fill="#DEB554" width="1" height="1.7"/>
+			<rect x="38.1" y="103.1" fill="#DEB554" width="1" height="1.7"/>
+			<rect x="36.7" y="103.1" fill="#DEB554" width="1" height="1.7"/>
+			<rect x="35.2" y="103.1" fill="#DEB554" width="1" height="1.7"/>
+			<rect x="33.7" y="103.1" fill="#DEB554" width="1" height="1.7"/>
+			<rect x="32.5" y="103.1" fill="#DEB554" width="1" height="1.7"/>
+			<rect x="31" y="103.1" fill="#DEB554" width="1" height="1.7"/>
+			<rect x="29.7" y="103.1" fill="#DEB554" width="1" height="1.7"/>
+			<rect x="28.3" y="103.1" fill="#DEB554" width="1" height="1.7"/>
+			<rect x="26.8" y="103.1" fill="#DEB554" width="1" height="1.7"/>
+			<rect x="25.3" y="103.1" fill="#DEB554" width="1" height="1.7"/>
+			<rect x="24.1" y="103.1" fill="#DEB554" width="1" height="1.7"/>
+			<rect x="22.6" y="103.1" fill="#DEB554" width="1" height="1.7"/>
+			<polygon fill="#DEB554" points="27.8,124.4 28.3,124.4 28.3,122.9 30.1,122.9 30.1,124.4 30.5,124.4 30.5,122.1 27.8,122.1 			
+				"/>
+			<polygon fill="#DEB554" points="30.1,127.9 28.3,127.9 28.3,126.6 27.8,126.6 27.8,128.8 30.5,128.8 30.5,126.6 30.1,126.6 			
+				"/>
+			<polygon fill="#DEB554" points="33.6,127.9 31.8,127.9 31.8,126.6 31.5,126.6 31.5,128.8 34.2,128.8 34.2,126.6 33.6,126.6 			
+				"/>
+			<polygon fill="#DEB554" points="31.5,124.4 31.8,124.4 31.8,122.9 33.6,122.9 33.6,124.4 34.2,124.4 34.2,122.1 31.5,122.1 			
+				"/>
+			<polygon fill="#DEB554" points="35,124.4 35.5,124.4 35.5,122.9 37.3,122.9 37.3,124.4 37.7,124.4 37.7,122.1 35,122.1 			"/>
+			<polygon fill="#DEB554" points="37.3,127.9 35.5,127.9 35.5,126.6 35,126.6 35,128.8 37.7,128.8 37.7,126.6 37.3,126.6 			"/>
+			<polygon fill="#DEB554" points="40.8,127.9 39,127.9 39,126.6 38.4,126.6 38.4,128.8 41.2,128.8 41.2,126.6 40.8,126.6 			"/>
+			<polygon fill="#DEB554" points="38.4,124.4 39,124.4 39,122.9 40.8,122.9 40.8,124.4 41.2,124.4 41.2,122.1 38.4,122.1 			"/>
+			<circle fill="#DEB554" cx="52.2" cy="16.4" r="0.8"/>
+			<circle fill="#DEB554" cx="58.3" cy="16.4" r="0.8"/>
+		</g>
+	</g>
+	<g id="labels">
+		<rect x="15" y="106.8" fill="none" width="25.2" height="5.5"/>
+		<text transform="matrix(1 0 0 1 17.3537 111.4933)" font-family="'DroidSans'" font-size="5px">ESP32-S3</text>
+		<rect x="27.1" y="112.7" fill="none" width="31.9" height="6.6"/>
+		<text transform="matrix(1 0 0 1 27.1304 117.8999)" font-family="'DroidSans'" font-size="5px">F</text>
+		<text transform="matrix(1 0 0 1 29.5865 117.8999)" font-family="'DroidSans'" font-size="5px">R</text>
+		<text transform="matrix(1 0 0 1 32.5357 117.8999)" font-family="'DroidSans'" font-size="5px">E</text>
+		<text transform="matrix(1 0 0 1 35.1749 117.8999)" font-family="'DroidSans'" font-size="5px">E</text>
+		<text transform="matrix(1 0 0 1 37.814 117.8999)" font-family="'DroidSans'" font-size="5px">N</text>
+		<text transform="matrix(1 0 0 1 41.459 117.8999)" font-family="'DroidSans'" font-size="5px">O</text>
+		<text transform="matrix(1 0 0 1 45.0699 117.8999)" font-family="'DroidSans'" font-size="5px">V</text>
+		<text transform="matrix(1 0 0 1 47.9092 117.8999)" font-family="'DroidSans'" font-size="5px">E</text>
+		<rect x="41.1" y="106.8" fill="none" width="21.6" height="5.5"/>
+		<text transform="matrix(1 0 0 1 42.2904 111.4933)" font-family="'DroidSans'" font-size="5px">WROOM</text>
+		<rect x="5.9" y="153.1" fill="none" width="4.2" height="5.9"/>
+		<text transform="matrix(0 -1 1 0 8.2138 157.7033)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">5V</text>
+		<rect x="20.5" y="119" fill="none" width="4.2" height="12.7"/>
+		<text transform="matrix(0 -1 1 0 22.7626 130.2785)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">EN/RST</text>
+		<rect x="31.7" y="129.3" fill="none" width="4.2" height="5.9"/>
+		<text transform="matrix(0 -1 1 0 33.9975 133.9347)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">RX</text>
+		<rect x="35.1" y="129.1" fill="none" width="4.2" height="5.9"/>
+		<text transform="matrix(0 -1 1 0 37.3764 133.6398)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">TX</text>
+		<rect x="38.6" y="129.4" fill="none" width="4.2" height="5.9"/>
+		<text transform="matrix(0 -1 1 0 40.8622 134.798)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">I</text>
+		<text transform="matrix(0 -1 1 0 40.8622 133.8107)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">O</text>
+		<text transform="matrix(0 -1 1 0 40.8622 131.5842)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">2</text>
+		<text transform="matrix(0 -1 1 0 40.8622 129.9318)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px"> </text>
+		<text transform="matrix(0 -1 1 0 40.8622 129.1525)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px"> </text>
+		<text transform="matrix(0 -1 1 0 40.8622 128.3732)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px"> </text>
+		<rect x="45.5" y="128.9" fill="none" width="4.2" height="5.9"/>
+		<text transform="matrix(0 -1 1 0 47.7821 133.4953)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">48</text>
+		<rect x="55.7" y="115.5" fill="none" width="4.2" height="17"/>
+		<text transform="matrix(0 -1 1 0 57.9975 132.4572)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">B</text>
+		<text transform="matrix(0 -1 1 0 57.9975 130.5939)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">O</text>
+		<text transform="matrix(0 -1 1 0 57.9975 128.3674)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">O</text>
+		<text transform="matrix(0 -1 1 0 57.9975 126.2297)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">T</text>
+		<text transform="matrix(0 -1 1 0 57.9975 124.673)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">/</text>
+		<text transform="matrix(0 -1 1 0 57.9975 123.5539)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">I</text>
+		<text transform="matrix(0 -1 1 0 57.9975 122.5656)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">O</text>
+		<text transform="matrix(0 -1 1 0 57.9975 120.339)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">0</text>
+		<rect x="28.2" y="129.3" fill="none" width="4.2" height="5.9"/>
+		<text transform="matrix(0 -1 1 0 30.497 134.4045)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">ON</text>
+		<rect x="70.1" y="152.5" fill="none" width="4.2" height="7.9"/>
+		<text transform="matrix(0 -1 1 0 72.3432 159.6281)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">GND</text>
+		<rect x="70.2" y="146.3" fill="none" width="4.2" height="5.9"/>
+		<text transform="matrix(0 -1 1 0 72.5248 150.9035)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">19</text>
+		<rect x="70.2" y="138.9" fill="none" width="4.2" height="5.9"/>
+		<text transform="matrix(0 -1 1 0 72.5248 143.4953)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">20</text>
+		<rect x="70.2" y="132" fill="none" width="4.2" height="5.9"/>
+		<text transform="matrix(0 -1 1 0 72.4945 136.5715)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">21</text>
+		<rect x="70.3" y="125.2" fill="none" width="4.2" height="5.9"/>
+		<text transform="matrix(0 -1 1 0 72.5551 129.7668)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">47</text>
+		<rect x="70.3" y="117.9" fill="none" width="4.2" height="5.9"/>
+		<text transform="matrix(0 -1 1 0 72.6107 122.4855)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">48</text>
+		<rect x="70.2" y="110.6" fill="none" width="4.2" height="5.9"/>
+		<text transform="matrix(0 -1 1 0 72.515 115.175)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">45</text>
+		<rect x="70.2" y="103.5" fill="none" width="4.2" height="5.9"/>
+		<text transform="matrix(0 -1 1 0 72.515 107.3039)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">0</text>
+		<rect x="70.1" y="96.4" fill="none" width="4.2" height="5.9"/>
+		<text transform="matrix(0 -1 1 0 72.4242 100.964)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">35</text>
+		<rect x="68.4" y="96.3" fill="none" width="4.2" height="5.9"/>
+		<text transform="matrix(0 -1 1 0 70.6918 100.1183)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">*</text>
+		<rect x="68.4" y="89.2" fill="none" width="4.2" height="5.9"/>
+		<text transform="matrix(0 -1 1 0 70.6469 92.9523)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">*</text>
+		<rect x="68.5" y="82" fill="none" width="4.2" height="5.9"/>
+		<text transform="matrix(0 -1 1 0 70.7377 85.7551)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">*</text>
+		<rect x="68.1" y="74.7" fill="none" width="4.2" height="5.9"/>
+		<text transform="matrix(0 -1 1 0 70.4008 78.4245)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">~</text>
+		<rect x="68.2" y="67.6" fill="none" width="4.2" height="5.9"/>
+		<text transform="matrix(0 -1 1 0 70.4613 71.3791)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">~</text>
+		<rect x="68.2" y="60.4" fill="none" width="4.2" height="5.9"/>
+		<text transform="matrix(0 -1 1 0 70.4311 64.1833)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">~</text>
+		<rect x="70.2" y="89.2" fill="none" width="4.2" height="5.9"/>
+		<text transform="matrix(0 -1 1 0 72.4545 93.798)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">36</text>
+		<rect x="70.2" y="82" fill="none" width="4.2" height="5.9"/>
+		<text transform="matrix(0 -1 1 0 72.4848 86.6027)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">37</text>
+		<rect x="70.2" y="75" fill="none" width="4.2" height="5.9"/>
+		<text transform="matrix(0 -1 1 0 72.4545 79.5871)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">38   </text>
+		<rect x="70.3" y="67.8" fill="none" width="4.2" height="5.9"/>
+		<text transform="matrix(0 -1 1 0 72.5453 72.3913)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">39</text>
+		<rect x="70.3" y="60.7" fill="none" width="4.2" height="5.9"/>
+		<text transform="matrix(0 -1 1 0 72.5453 65.2555)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">40</text>
+		<rect x="70.2" y="53.4" fill="none" width="4.2" height="5.9"/>
+		<text transform="matrix(0 -1 1 0 72.515 57.9992)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">41</text>
+		<rect x="70.2" y="45.6" fill="none" width="4.2" height="5.9"/>
+		<text transform="matrix(0 -1 1 0 72.515 50.1677)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">42</text>
+		<rect x="70.3" y="39.3" fill="none" width="4.2" height="5.9"/>
+		<text transform="matrix(0 -1 1 0 72.5795 43.0344)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">2</text>
+		<rect x="70.3" y="32.4" fill="none" width="4.2" height="5.9"/>
+		<text transform="matrix(0 -1 1 0 72.5453 36.1584)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">1</text>
+		<rect x="70.3" y="25.2" fill="none" width="4.2" height="5.9"/>
+		<text transform="matrix(0 -1 1 0 72.5844 29.8517)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">RX</text>
+		<rect x="70.3" y="18.3" fill="none" width="4.2" height="5.9"/>
+		<text transform="matrix(0 -1 1 0 72.56 22.8566)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">TX</text>
+		<rect x="5.9" y="146.2" fill="none" width="4.2" height="5.9"/>
+		<text transform="matrix(0 -1 1 0 8.2138 150.8332)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">14</text>
+		<rect x="5.9" y="138.9" fill="none" width="4.2" height="5.9"/>
+		<text transform="matrix(0 -1 1 0 8.1835 143.4465)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">13</text>
+		<rect x="5.9" y="131.5" fill="none" width="4.2" height="5.9"/>
+		<text transform="matrix(0 -1 1 0 8.2138 136.091)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">12</text>
+		<rect x="6" y="124.7" fill="none" width="4.2" height="5.9"/>
+		<text transform="matrix(0 -1 1 0 8.2441 129.3039)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">11</text>
+		<rect x="5.9" y="117.8" fill="none" width="4.2" height="5.9"/>
+		<text transform="matrix(0 -1 1 0 8.2138 122.4445)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">10 </text>
+		<rect x="5.9" y="110.7" fill="none" width="4.2" height="5.9"/>
+		<text transform="matrix(0 -1 1 0 8.2138 114.4211)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">9</text>
+		<rect x="5.9" y="103.5" fill="none" width="4.2" height="5.9"/>
+		<text transform="matrix(0 -1 1 0 8.1308 108.0871)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">46</text>
+		<rect x="5.9" y="96.4" fill="none" width="4.2" height="5.9"/>
+		<text transform="matrix(0 -1 1 0 8.225 100.134)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">3</text>
+		<rect x="5.9" y="89.2" fill="none" width="4.2" height="5.9"/>
+		<text transform="matrix(0 -1 1 0 8.1791 92.966)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">8</text>
+		<rect x="5.9" y="82.2" fill="none" width="4.2" height="5.9"/>
+		<text transform="matrix(0 -1 1 0 8.2138 86.8254)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">18</text>
+		<rect x="5.9" y="75" fill="none" width="4.2" height="5.9"/>
+		<text transform="matrix(0 -1 1 0 8.2138 79.5695)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">17</text>
+		<rect x="5.9" y="68.3" fill="none" width="4.2" height="5.9"/>
+		<text transform="matrix(0 -1 1 0 8.2045 72.9338)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">16</text>
+		<rect x="5.9" y="61" fill="none" width="4.2" height="5.9"/>
+		<text transform="matrix(0 -1 1 0 8.2138 65.5715)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">15</text>
+		<rect x="5.9" y="53.4" fill="none" width="4.2" height="5.9"/>
+		<text transform="matrix(0 -1 1 0 8.2289 57.2013)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">7</text>
+		<rect x="5.9" y="46.5" fill="none" width="4.2" height="5.9"/>
+		<text transform="matrix(0 -1 1 0 8.1591 50.2531)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">6</text>
+		<rect x="5.8" y="39.3" fill="none" width="4.2" height="5.9"/>
+		<text transform="matrix(0 -1 1 0 8.1293 43.0744)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">5</text>
+		<rect x="5.9" y="32.4" fill="none" width="4.2" height="5.9"/>
+		<text transform="matrix(0 -1 1 0 8.2138 36.1432)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">4</text>
+		<rect x="5.9" y="24.9" fill="none" width="4.2" height="5.9"/>
+		<text transform="matrix(0 -1 1 0 8.1503 29.7775)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">EN</text>
+		<rect x="5.9" y="17.7" fill="none" width="4.2" height="5.9"/>
+		<text transform="matrix(0 -1 1 0 8.1962 22.6008)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">3</text>
+		<text transform="matrix(0 -1 1 0 8.1962 21.0173)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">.</text>
+		<text transform="matrix(0 -1 1 0 8.1962 20.2824)" fill="#FFFFFF" font-family="'DroidSans'" font-size="3px">3</text>
+		<line fill="none" stroke="#FFFFFF" stroke-width="0.25" stroke-miterlimit="10" x1="9.1" y1="143.9" x2="9.1" y2="139.9"/>
+		<line fill="none" stroke="#FFFFFF" stroke-width="0.25" stroke-miterlimit="10" x1="9.2" y1="136.4" x2="9.2" y2="132.4"/>
+		<line fill="none" stroke="#FFFFFF" stroke-width="0.25" stroke-miterlimit="10" x1="9.3" y1="129.6" x2="9.3" y2="125.7"/>
+		<line fill="none" stroke="#FFFFFF" stroke-width="0.25" stroke-miterlimit="10" x1="9" y1="122.9" x2="9" y2="118.9"/>
+		<line fill="none" stroke="#FFFFFF" stroke-width="0.25" stroke-miterlimit="10" x1="9" y1="115.6" x2="9" y2="111.7"/>
+		<line fill="none" stroke="#FFFFFF" stroke-width="0.25" stroke-miterlimit="10" x1="9" y1="94.2" x2="9" y2="90.2"/>
+		<line fill="none" stroke="#FFFFFF" stroke-width="0.25" stroke-miterlimit="10" x1="8.9" y1="87.2" x2="8.9" y2="83.2"/>
+		<line fill="none" stroke="#FFFFFF" stroke-width="0.25" stroke-miterlimit="10" x1="8.9" y1="80" x2="8.9" y2="76.1"/>
+		<line fill="none" stroke="#FFFFFF" stroke-width="0.25" stroke-miterlimit="10" x1="9" y1="73.3" x2="9" y2="69.4"/>
+		<line fill="none" stroke="#FFFFFF" stroke-width="0.25" stroke-miterlimit="10" x1="9" y1="66" x2="9" y2="62"/>
+		<line fill="none" stroke="#FFFFFF" stroke-width="0.25" stroke-miterlimit="10" x1="9" y1="58.4" x2="9" y2="54.4"/>
+		<line fill="none" stroke="#FFFFFF" stroke-width="0.25" stroke-miterlimit="10" x1="9" y1="51.4" x2="9" y2="47.5"/>
+		<line fill="none" stroke="#FFFFFF" stroke-width="0.25" stroke-miterlimit="10" x1="9" y1="44.2" x2="9" y2="40.3"/>
+		<line fill="none" stroke="#FFFFFF" stroke-width="0.25" stroke-miterlimit="10" x1="9" y1="37.2" x2="9" y2="33.3"/>
+	</g>
+	<g id="copper2">
+		<path id="connector40pad" fill="#DEB554" d="M74.9,22.7c-1,0-1.8-0.8-1.8-1.8c0-1,0.8-1.8,1.8-1.8c1,0,1.8,0.8,1.8,1.8
+			C76.7,21.9,75.9,22.7,74.9,22.7z M74.9,19.7c-0.6,0-1.1,0.5-1.1,1.1c0,0.6,0.5,1.1,1.1,1.1c0.6,0,1.1-0.5,1.1-1.1
+			C76,20.2,75.5,19.7,74.9,19.7z"/>
+		<path id="connector39pad" fill="#DEB554" d="M74.9,29.7c-1,0-1.8-0.8-1.8-1.8c0-1,0.8-1.8,1.8-1.8c1,0,1.8,0.8,1.8,1.8
+			C76.7,28.9,75.9,29.7,74.9,29.7z M74.9,26.8c-0.6,0-1.1,0.5-1.1,1.1c0,0.6,0.5,1.1,1.1,1.1c0.6,0,1.1-0.5,1.1-1.1
+			C76,27.3,75.5,26.8,74.9,26.8z"/>
+		<path id="connector38pad" fill="#DEB554" d="M74.9,37c-1,0-1.8-0.8-1.8-1.8c0-1,0.8-1.8,1.8-1.8c1,0,1.8,0.8,1.8,1.8
+			C76.7,36.2,75.9,37,74.9,37z M74.9,34c-0.6,0-1.1,0.5-1.1,1.1s0.5,1.1,1.1,1.1c0.6,0,1.1-0.5,1.1-1.1S75.5,34,74.9,34z"/>
+		<path id="connector37pad" fill="#DEB554" d="M74.9,44.1c-1,0-1.8-0.8-1.8-1.8c0-1,0.8-1.8,1.8-1.8c1,0,1.8,0.8,1.8,1.8
+			C76.7,43.3,75.9,44.1,74.9,44.1z M74.9,41.1c-0.6,0-1.1,0.5-1.1,1.1s0.5,1.1,1.1,1.1c0.6,0,1.1-0.5,1.1-1.1S75.5,41.1,74.9,41.1z"
+			/>
+		<path id="connector36pad" fill="#DEB554" d="M74.9,51.1c-1,0-1.8-0.8-1.8-1.8c0-1,0.8-1.8,1.8-1.8c1,0,1.8,0.8,1.8,1.8
+			C76.7,50.3,75.9,51.1,74.9,51.1z M74.9,48.2c-0.6,0-1.1,0.5-1.1,1.1c0,0.6,0.5,1.1,1.1,1.1c0.6,0,1.1-0.5,1.1-1.1
+			C76,48.7,75.5,48.2,74.9,48.2z"/>
+		<path id="connector35pad" fill="#DEB554" d="M74.9,58.4c-1,0-1.8-0.8-1.8-1.8c0-1,0.8-1.8,1.8-1.8c1,0,1.8,0.8,1.8,1.8
+			C76.7,57.6,75.9,58.4,74.9,58.4z M74.9,55.5c-0.6,0-1.1,0.5-1.1,1.1c0,0.6,0.5,1.1,1.1,1.1c0.6,0,1.1-0.5,1.1-1.1
+			C76,56,75.5,55.5,74.9,55.5z"/>
+		<path id="connector34pad" fill="#DEB554" d="M74.9,65.4c-1,0-1.8-0.8-1.8-1.8c0-1,0.8-1.8,1.8-1.8c1,0,1.8,0.8,1.8,1.8
+			C76.7,64.6,75.9,65.4,74.9,65.4z M74.9,62.5c-0.6,0-1.1,0.5-1.1,1.1c0,0.6,0.5,1.1,1.1,1.1c0.6,0,1.1-0.5,1.1-1.1
+			C76,63,75.5,62.5,74.9,62.5z"/>
+		<path id="connector33pad" fill="#DEB554" d="M74.9,72.6c-1,0-1.8-0.8-1.8-1.8c0-1,0.8-1.8,1.8-1.8c1,0,1.8,0.8,1.8,1.8
+			C76.7,71.8,75.9,72.6,74.9,72.6z M74.9,69.6c-0.6,0-1.1,0.5-1.1,1.1c0,0.6,0.5,1.1,1.1,1.1c0.6,0,1.1-0.5,1.1-1.1
+			C76,70.2,75.5,69.6,74.9,69.6z"/>
+		<path id="connector32pad" fill="#DEB554" d="M74.9,79.7c-1,0-1.8-0.8-1.8-1.8c0-1,0.8-1.8,1.8-1.8c1,0,1.8,0.8,1.8,1.8
+			C76.7,78.9,75.9,79.7,74.9,79.7z M74.9,76.8c-0.6,0-1.1,0.5-1.1,1.1c0,0.6,0.5,1.1,1.1,1.1c0.6,0,1.1-0.5,1.1-1.1
+			C76,77.3,75.5,76.8,74.9,76.8z"/>
+		<path id="connector31pad" fill="#DEB554" d="M74.9,86.9c-1,0-1.8-0.8-1.8-1.8c0-1,0.8-1.8,1.8-1.8c1,0,1.8,0.8,1.8,1.8
+			C76.7,86.1,75.9,86.9,74.9,86.9z M74.9,84c-0.6,0-1.1,0.5-1.1,1.1c0,0.6,0.5,1.1,1.1,1.1c0.6,0,1.1-0.5,1.1-1.1
+			C76,84.5,75.5,84,74.9,84z"/>
+		<path id="connector30pad" fill="#DEB554" d="M74.9,94c-1,0-1.8-0.8-1.8-1.8c0-1,0.8-1.8,1.8-1.8c1,0,1.8,0.8,1.8,1.8
+			C76.7,93.2,75.9,94,74.9,94z M74.9,91.1c-0.6,0-1.1,0.5-1.1,1.1c0,0.6,0.5,1.1,1.1,1.1c0.6,0,1.1-0.5,1.1-1.1
+			C76,91.6,75.5,91.1,74.9,91.1z"/>
+		<path id="connector29pad" fill="#DEB554" d="M74.9,101.2c-1,0-1.8-0.8-1.8-1.8c0-1,0.8-1.8,1.8-1.8c1,0,1.8,0.8,1.8,1.8
+			C76.7,100.4,75.9,101.2,74.9,101.2z M74.9,98.3c-0.6,0-1.1,0.5-1.1,1.1c0,0.6,0.5,1.1,1.1,1.1c0.6,0,1.1-0.5,1.1-1.1
+			C76,98.8,75.5,98.3,74.9,98.3z"/>
+		<path id="connector28pad" fill="#DEB554" d="M74.9,108.3c-1,0-1.8-0.8-1.8-1.8c0-1,0.8-1.8,1.8-1.8c1,0,1.8,0.8,1.8,1.8
+			C76.7,107.5,75.9,108.3,74.9,108.3z M74.9,105.3c-0.6,0-1.1,0.5-1.1,1.1c0,0.6,0.5,1.1,1.1,1.1c0.6,0,1.1-0.5,1.1-1.1
+			C76,105.8,75.5,105.3,74.9,105.3z"/>
+		<path id="connector27pad" fill="#DEB554" d="M74.9,115.3c-1,0-1.8-0.8-1.8-1.8s0.8-1.8,1.8-1.8c1,0,1.8,0.8,1.8,1.8
+			S75.9,115.3,74.9,115.3z M74.9,112.4c-0.6,0-1.1,0.5-1.1,1.1s0.5,1.1,1.1,1.1c0.6,0,1.1-0.5,1.1-1.1S75.5,112.4,74.9,112.4z"/>
+		<path id="connector26pad" fill="#DEB554" d="M74.9,122.5c-1,0-1.8-0.8-1.8-1.8c0-1,0.8-1.8,1.8-1.8c1,0,1.8,0.8,1.8,1.8
+			C76.7,121.7,75.9,122.5,74.9,122.5z M74.9,119.6c-0.6,0-1.1,0.5-1.1,1.1c0,0.6,0.5,1.1,1.1,1.1c0.6,0,1.1-0.5,1.1-1.1
+			C76,120.1,75.5,119.6,74.9,119.6z"/>
+		<path id="connector25pad" fill="#DEB554" d="M74.9,129.6c-1,0-1.8-0.8-1.8-1.8s0.8-1.8,1.8-1.8c1,0,1.8,0.8,1.8,1.8
+			S75.9,129.6,74.9,129.6z M74.9,126.6c-0.6,0-1.1,0.5-1.1,1.1c0,0.6,0.5,1.1,1.1,1.1c0.6,0,1.1-0.5,1.1-1.1
+			C76,127.2,75.5,126.6,74.9,126.6z"/>
+		<path id="connector24pad" fill="#DEB554" d="M74.9,136.6c-1,0-1.8-0.8-1.8-1.8s0.8-1.8,1.8-1.8c1,0,1.8,0.8,1.8,1.8
+			S75.9,136.6,74.9,136.6z M74.9,133.7c-0.6,0-1.1,0.5-1.1,1.1s0.5,1.1,1.1,1.1c0.6,0,1.1-0.5,1.1-1.1S75.5,133.7,74.9,133.7z"/>
+		<path id="connector23pad" fill="#DEB554" d="M74.9,143.8c-1,0-1.8-0.8-1.8-1.8s0.8-1.8,1.8-1.8c1,0,1.8,0.8,1.8,1.8
+			S75.9,143.8,74.9,143.8z M74.9,140.9c-0.6,0-1.1,0.5-1.1,1.1c0,0.6,0.5,1.1,1.1,1.1c0.6,0,1.1-0.5,1.1-1.1
+			C76,141.4,75.5,140.9,74.9,140.9z"/>
+		<path id="connector22pad" fill="#DEB554" d="M74.9,151c-1,0-1.8-0.8-1.8-1.8s0.8-1.8,1.8-1.8c1,0,1.8,0.8,1.8,1.8
+			S75.9,151,74.9,151z M74.9,148.1c-0.6,0-1.1,0.5-1.1,1.1s0.5,1.1,1.1,1.1c0.6,0,1.1-0.5,1.1-1.1S75.5,148.1,74.9,148.1z"/>
+		<path id="connector21pad" fill="#DEB554" d="M74.9,158.2c-1,0-1.8-0.8-1.8-1.8s0.8-1.8,1.8-1.8c1,0,1.8,0.8,1.8,1.8
+			S75.9,158.2,74.9,158.2z M74.9,155.3c-0.6,0-1.1,0.5-1.1,1.1s0.5,1.1,1.1,1.1c0.6,0,1.1-0.5,1.1-1.1S75.5,155.3,74.9,155.3z"/>
+	</g>
+	<g id="copper1">
+		<path id="connector20pad_00000098186991536160242940000001477736631634058172_" fill="#DEB554" d="M3.6,22.7c-1,0-1.8-0.8-1.8-1.8
+			s0.8-1.8,1.8-1.8S5.4,20,5.4,21S4.6,22.7,3.6,22.7z M3.6,19.8c-0.6,0-1.1,0.5-1.1,1.1c0,0.6,0.5,1.1,1.1,1.1s1.1-0.5,1.1-1.1
+			C4.7,20.3,4.2,19.8,3.6,19.8z"/>
+		<path id="connector19pad_00000083775182312986443640000001751415398682882218_" fill="#DEB554" d="M3.6,29.8c-1,0-1.8-0.8-1.8-1.8
+			c0-1,0.8-1.8,1.8-1.8S5.4,27,5.4,28C5.4,29,4.6,29.8,3.6,29.8z M3.6,26.9c-0.6,0-1.1,0.5-1.1,1.1c0,0.6,0.5,1.1,1.1,1.1
+			s1.1-0.5,1.1-1.1C4.7,27.4,4.2,26.9,3.6,26.9z"/>
+		<path id="connector18pad_00000089553438266886947850000005980584471432701316_" fill="#DEB554" d="M3.6,37c-1,0-1.8-0.8-1.8-1.8
+			c0-1,0.8-1.8,1.8-1.8s1.8,0.8,1.8,1.8C5.4,36.2,4.6,37,3.6,37z M3.6,34.1c-0.6,0-1.1,0.5-1.1,1.1s0.5,1.1,1.1,1.1s1.1-0.5,1.1-1.1
+			S4.2,34.1,3.6,34.1z"/>
+		<path id="connector17pad_00000145749959875884671820000008138060420728429744_" fill="#DEB554" d="M3.6,44.1c-1,0-1.8-0.8-1.8-1.8
+			c0-1,0.8-1.8,1.8-1.8s1.8,0.8,1.8,1.8C5.4,43.3,4.6,44.1,3.6,44.1z M3.6,41.2c-0.6,0-1.1,0.5-1.1,1.1c0,0.6,0.5,1.1,1.1,1.1
+			s1.1-0.5,1.1-1.1C4.7,41.7,4.2,41.2,3.6,41.2z"/>
+		<path id="connector16pad_00000112628775922356394170000009632412100902476952_" fill="#DEB554" d="M3.6,51.2c-1,0-1.8-0.8-1.8-1.8
+			s0.8-1.8,1.8-1.8s1.8,0.8,1.8,1.8S4.6,51.2,3.6,51.2z M3.6,48.3c-0.6,0-1.1,0.5-1.1,1.1s0.5,1.1,1.1,1.1s1.1-0.5,1.1-1.1
+			S4.2,48.3,3.6,48.3z"/>
+		<path id="connector15pad_00000141447645087531492320000000658484754318139539_" fill="#DEB554" d="M3.6,58.5c-1,0-1.8-0.8-1.8-1.8
+			c0-1,0.8-1.8,1.8-1.8s1.8,0.8,1.8,1.8C5.4,57.7,4.6,58.5,3.6,58.5z M3.6,55.6c-0.6,0-1.1,0.5-1.1,1.1c0,0.6,0.5,1.1,1.1,1.1
+			s1.1-0.5,1.1-1.1C4.7,56.1,4.2,55.6,3.6,55.6z"/>
+		<path id="connector14pad_00000170271915025337158140000005732965430034340499_" fill="#DEB554" d="M3.6,65.5c-1,0-1.8-0.8-1.8-1.8
+			c0-1,0.8-1.8,1.8-1.8s1.8,0.8,1.8,1.8C5.4,64.7,4.6,65.5,3.6,65.5z M3.6,62.6c-0.6,0-1.1,0.5-1.1,1.1c0,0.6,0.5,1.1,1.1,1.1
+			s1.1-0.5,1.1-1.1C4.7,63.1,4.2,62.6,3.6,62.6z"/>
+		<path id="connector13pad_00000147195149952353151530000006394365356071462071_" fill="#DEB554" d="M3.6,72.7c-1,0-1.8-0.8-1.8-1.8
+			s0.8-1.8,1.8-1.8s1.8,0.8,1.8,1.8S4.6,72.7,3.6,72.7z M3.6,69.7c-0.6,0-1.1,0.5-1.1,1.1C2.4,71.5,3,72,3.6,72s1.1-0.5,1.1-1.1
+			C4.7,70.2,4.2,69.7,3.6,69.7z"/>
+		<path id="connector12pad_00000020391194546191213650000008650223357853916052_" fill="#DEB554" d="M3.6,79.8c-1,0-1.8-0.8-1.8-1.8
+			c0-1,0.8-1.8,1.8-1.8S5.4,77,5.4,78C5.4,79,4.6,79.8,3.6,79.8z M3.6,76.9c-0.6,0-1.1,0.5-1.1,1.1c0,0.6,0.5,1.1,1.1,1.1
+			s1.1-0.5,1.1-1.1C4.7,77.4,4.2,76.9,3.6,76.9z"/>
+		<path id="connector11pad_00000132077497731275945520000003259301745681436584_" fill="#DEB554" d="M3.6,87c-1,0-1.8-0.8-1.8-1.8
+			s0.8-1.8,1.8-1.8s1.8,0.8,1.8,1.8S4.6,87,3.6,87z M3.6,84c-0.6,0-1.1,0.5-1.1,1.1s0.5,1.1,1.1,1.1s1.1-0.5,1.1-1.1S4.2,84,3.6,84z
+			"/>
+		<path id="connector10pad_00000177472677027790503260000009713552973977444764_" fill="#DEB554" d="M3.6,94.1c-1,0-1.8-0.8-1.8-1.8
+			s0.8-1.8,1.8-1.8s1.8,0.8,1.8,1.8S4.6,94.1,3.6,94.1z M3.6,91.2c-0.6,0-1.1,0.5-1.1,1.1s0.5,1.1,1.1,1.1s1.1-0.5,1.1-1.1
+			S4.2,91.2,3.6,91.2z"/>
+		<path id="connector9pad_00000086669457642770447980000007135880154255054755_" fill="#DEB554" d="M3.6,101.3c-1,0-1.8-0.8-1.8-1.8
+			s0.8-1.8,1.8-1.8s1.8,0.8,1.8,1.8S4.6,101.3,3.6,101.3z M3.6,98.4c-0.6,0-1.1,0.5-1.1,1.1s0.5,1.1,1.1,1.1s1.1-0.5,1.1-1.1
+			S4.2,98.4,3.6,98.4z"/>
+		<path id="connector8pad_00000083805220223681193410000007474511094894574511_" fill="#DEB554" d="M3.6,108.3c-1,0-1.8-0.8-1.8-1.8
+			c0-1,0.8-1.8,1.8-1.8s1.8,0.8,1.8,1.8C5.4,107.5,4.6,108.3,3.6,108.3z M3.6,105.4c-0.6,0-1.1,0.5-1.1,1.1c0,0.6,0.5,1.1,1.1,1.1
+			s1.1-0.5,1.1-1.1C4.7,105.9,4.2,105.4,3.6,105.4z"/>
+		<path id="connector7pad_00000062158292541064646300000013546921322612527518_" fill="#DEB554" d="M3.6,115.4c-1,0-1.8-0.8-1.8-1.8
+			c0-1,0.8-1.8,1.8-1.8s1.8,0.8,1.8,1.8C5.4,114.6,4.6,115.4,3.6,115.4z M3.6,112.5c-0.6,0-1.1,0.5-1.1,1.1c0,0.6,0.5,1.1,1.1,1.1
+			s1.1-0.5,1.1-1.1C4.7,113,4.2,112.5,3.6,112.5z"/>
+		<path id="connector6pad_00000078728616493330614170000004225647929398773166_" fill="#DEB554" d="M3.6,122.6c-1,0-1.8-0.8-1.8-1.8
+			c0-1,0.8-1.8,1.8-1.8s1.8,0.8,1.8,1.8C5.4,121.8,4.6,122.6,3.6,122.6z M3.6,119.6c-0.6,0-1.1,0.5-1.1,1.1c0,0.6,0.5,1.1,1.1,1.1
+			s1.1-0.5,1.1-1.1C4.7,120.2,4.2,119.6,3.6,119.6z"/>
+		<path id="connector5pad_00000061434561459450733680000005112070186067078307_" fill="#DEB554" d="M3.6,129.6c-1,0-1.8-0.8-1.8-1.8
+			s0.8-1.8,1.8-1.8s1.8,0.8,1.8,1.8S4.6,129.6,3.6,129.6z M3.6,126.7c-0.6,0-1.1,0.5-1.1,1.1S3,129,3.6,129s1.1-0.5,1.1-1.1
+			S4.2,126.7,3.6,126.7z"/>
+		<path id="connector4pad_00000168839908792537686420000002850436008050580122_" fill="#DEB554" d="M3.6,136.7c-1,0-1.8-0.8-1.8-1.8
+			s0.8-1.8,1.8-1.8s1.8,0.8,1.8,1.8S4.6,136.7,3.6,136.7z M3.6,133.8c-0.6,0-1.1,0.5-1.1,1.1s0.5,1.1,1.1,1.1s1.1-0.5,1.1-1.1
+			S4.2,133.8,3.6,133.8z"/>
+		<path id="connector3pad_00000119107864610192797490000016386016653217289617_" fill="#DEB554" d="M3.6,143.9c-1,0-1.8-0.8-1.8-1.8
+			s0.8-1.8,1.8-1.8s1.8,0.8,1.8,1.8S4.6,143.9,3.6,143.9z M3.6,141c-0.6,0-1.1,0.5-1.1,1.1s0.5,1.1,1.1,1.1s1.1-0.5,1.1-1.1
+			S4.2,141,3.6,141z"/>
+		<path id="connector2pad_00000170248001019782309410000005585000512503701162_" fill="#DEB554" d="M3.6,151.1c-1,0-1.8-0.8-1.8-1.8
+			s0.8-1.8,1.8-1.8s1.8,0.8,1.8,1.8S4.6,151.1,3.6,151.1z M3.6,148.2c-0.6,0-1.1,0.5-1.1,1.1c0,0.6,0.5,1.1,1.1,1.1s1.1-0.5,1.1-1.1
+			C4.7,148.7,4.2,148.2,3.6,148.2z"/>
+		<path id="connector1pad_00000015337052996097670070000014159199445819330434_" fill="#DEB554" d="M3.6,158.3c-1,0-1.8-0.8-1.8-1.8
+			s0.8-1.8,1.8-1.8s1.8,0.8,1.8,1.8S4.6,158.3,3.6,158.3z M3.6,155.4c-0.6,0-1.1,0.5-1.1,1.1s0.5,1.1,1.1,1.1s1.1-0.5,1.1-1.1
+			S4.2,155.4,3.6,155.4z"/>
+	</g>
+</g>
+</svg>
